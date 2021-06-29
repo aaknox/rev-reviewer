@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+html, body {
+    height: 100%;
+    background: rgb(242,105,38);
+    background: linear-gradient(0deg, rgba(242,105,38,1) 0%, rgba(240,142,95,1) 10%, rgba(255,255,255,1) 75%);
+  }
+  
+body{
+    font-smooth: never;
+    -webkit-font-smoothing: none;
+    font-family: "Futura Book", monospace;
+    overflow: hidden;
+}
